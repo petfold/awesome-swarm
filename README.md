@@ -87,6 +87,8 @@ This is a list of free and open source projects related to Swarm and its growing
 
 [Datafund Provenance Toolkit](https://github.com/datafund/provenance) - Store data on Swarm with cryptographic provenance — hashing, optional notary signing and on-chain anchoring, with SDK, CLI and MCP server.
 
+[ontodag-fs](https://github.com/petfold/ontodag-fs) - Browse an OntoDAG category lattice as a read-only fsspec and FUSE filesystem where directory paths are queries and file content is stored on Swarm.
+
 ## Smart Contracts
 
 [Swap, Swear and Swindle](https://github.com/ethersphere/swap-swear-and-swindle) - Protocols for peer-to-peer accounting.
